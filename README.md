@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="header.png" alt="Library Management System">
+</p>
+
 # 📚 Library Management System
 
 A containerized **Library Management REST API** built using **Flask, PostgreSQL, SQLAlchemy, Docker, and Docker Compose**.
